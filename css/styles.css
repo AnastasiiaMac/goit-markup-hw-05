@@ -621,12 +621,13 @@ textarea:focus {
 }
 
 textarea::placeholder {
-    font-family: Roboto;
+    
     font-size: 12px;
-    font-style: normal;
     font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.04em;
+    margin-bottom: 16px;
+    
 }
 .modal-checkbox-label {
     color: var(--LIGHT-SLATE, #8E8F99);
@@ -636,7 +637,7 @@ textarea::placeholder {
     max-width: 100%;
     margin-bottom: 24px;
     display: flex;
-    
+    align-items: center; 
 }
 .modal-checkbox-label span {
     width: 16px;
