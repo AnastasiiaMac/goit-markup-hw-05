@@ -438,10 +438,8 @@ text-decoration: none;
 .footer-icon {
     fill: #f4f4fd;
 }
-.footer-subscribe-wrapper {
-    flex-direction: column;
-    display: flex;
-}
+
+
 .fotter-form {
     display: flex;
     gap: 24px;
