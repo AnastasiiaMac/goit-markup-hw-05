@@ -645,7 +645,7 @@ margin-bottom: 8px;
     display: flex;
     align-items: center; 
 }
-.modal-checkbox-label .user-privacy-span {
+.user-privacy-span {
     width: 16px;
     height: 16px;
     border-radius: 2px;
