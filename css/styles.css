@@ -642,8 +642,7 @@ margin-bottom: 8px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     max-width: 100%;
-    display: flex;
-    align-items: center; 
+    
 }
 .user-privacy-span {
     width: 16px;
