@@ -480,9 +480,6 @@ text-decoration: none;
 }
 .footer-subscribe-icon {
     fill: #FFFFFF;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
     right: 24px;
     margin-left: 16px;
 
